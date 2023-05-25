@@ -5,8 +5,16 @@ p {
 
 .links {
   text-align: center;
+  margin-top: 20px;
 }
 
 a {
   margin: 0 10px;
 }
+
+.croissant-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
