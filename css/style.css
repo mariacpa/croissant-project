@@ -1,3 +1,7 @@
+body {
+  background: #fbf2d5;
+}
+
 h1,
 p {
   text-align: center;
@@ -8,8 +12,13 @@ p {
   margin-top: 20px;
 }
 
-a {
+.links a {
   margin: 0 10px;
+  color: #24527a;
+}
+
+a {
+  color: #e8630a;
 }
 
 .croissant-image {
@@ -17,4 +26,3 @@ a {
   height: auto;
   border-radius: 4px;
 }
-
